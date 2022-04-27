@@ -1,0 +1,20 @@
+
+		 STRUK Pemesanan Makanan 
+			 KEDAI X 
+===================================================
+Nama Customer :l
+Jarak rumah - kedai : 4000
+---------------------------------------------------
+No.	Menu 		Harga 	 Porsi 	 Subtotal
+1 	Ayam geprek	21000 	 2	 42000
+2 	Ayam goreng	17000 	 1	 17000
+3 	Udang goreng	19000 	 1	 19000
+---------------------------------------------------
+	 Jumlah belanja 		: Rp.78000
+	 Diskon Belanja   		: Rp.11700
+	 Diskon ongkir 			: Rp.5000
+	 harga ongkir 			: Rp.25000
+	 jumlah total bayar  		: Rp.86300
+
+
+	~Terimakasih telah berkunjung ke kedai X~

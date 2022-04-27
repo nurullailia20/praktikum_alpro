@@ -1,0 +1,16 @@
+
+		 STRUK Pemesanan Makanan 
+			 KEDAI X 
+===================================================
+Nama Customer :farhan
+---------------------------------------------------
+No.	Menu 		Harga 	 Porsi 	 Subtotal
+1 	Ayam goreng	17000 	 4	 68000
+2 	Ayam Bakar	21000 	 5	 105000
+---------------------------------------------------
+	 Jumlah 			: Rp.173000
+	 Diskon        			: Rp.17300
+	 Total Bayar  			: Rp.155700
+
+
+	~Terimakasih telah berkunjung ke kedai X~
